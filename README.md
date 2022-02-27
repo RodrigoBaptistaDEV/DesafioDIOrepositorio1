@@ -1,2 +1,2 @@
 # DesafioDIOrepositorio1
-Meu primeiro repositorio no github, aprendendo a mexer na plataforma atraves da Digital Inonvaiton Onee 
+Meu primeiro repositorio no github, aprendendo a mexer na plataforma atraves da Digital Inonvaiton One 
